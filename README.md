@@ -19,5 +19,5 @@
 
 ### Vector Store: This is a data storage and retrieval system, likely a vector database, that efficiently stores and retrieves information related to the uploaded PDF documents. This enables the Document QnA mode to quickly access and respond to user queries.
 
-## General Chat: This mode provides a general-purpose chat interface for users, allowing them to engage in open-ended conversations. It utilizes the LLM Model to generate appropriate responses based on the user's input.
-## LLM Model: This is the core component that employs a Large Language Model (LLM) to understand and generate natural language responses. It powers the conversational abilities of the application, including the General Chat mode, Appointment Booking, and Document QnA.
+### General Chat: This mode provides a general-purpose chat interface for users, allowing them to engage in open-ended conversations. It utilizes the LLM Model to generate appropriate responses based on the user's input.
+### LLM Model: This is the core component that employs a Large Language Model (LLM) to understand and generate natural language responses. It powers the conversational abilities of the application, including the General Chat mode, Appointment Booking, and Document QnA.
